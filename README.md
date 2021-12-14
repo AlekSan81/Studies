@@ -1,2 +1,2 @@
 # Study
-All I have to learn.
+The reposiotory contains all information about my learning.
