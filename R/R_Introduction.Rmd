@@ -1,0 +1,12 @@
+# Module 1: Base Structers
+```{r}
+cats <- 5
+dogs <- 2
+pets <- cats + dogs
+
+pets
+```
+
+```{r}
+rm(list=ls())
+```
